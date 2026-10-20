@@ -110,6 +110,5 @@ Aspiring Software Developer | Exploring Frontend Development, Machine Learning, 
 * GitHub: @sourabh9098
 * Live Project: HTML & CSS Login Page
 
-⸻
 
 If you find this project useful, consider giving the repository a star!
