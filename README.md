@@ -11,13 +11,6 @@ A clean and visually appealing login page built using HTML5 and CSS3. This proje
   </a>
 </p>
 
-⸻
-
-Live Demo
-
-Explore the deployed application:
-
-View Live Website
 
 Project Preview
 
