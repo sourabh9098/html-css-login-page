@@ -22,7 +22,6 @@ Login page interface built with HTML and CSS.
 
 To display the screenshot above, add your actual project screenshot at screenshots/login-page.png in this repository.
 
-⸻
 
 Features
 
@@ -41,7 +40,7 @@ HTML5	Page structure and form elements
 CSS3	Styling, layout, and visual effects
 Google Fonts	Typography
 Vercel	Deployment and hosting
-Git & GitHub	Version control and source code management
+Git & GitHub	Version control
 
 Project Structure
 
