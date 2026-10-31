@@ -1,46 +1,80 @@
 HTML & CSS Login Page
 
-A clean and visually appealing login page built using HTML5 and CSS3. This project focuses on frontend fundamentals, form design, layout styling, and creating an engaging user interface.
+A clean , modern , and visually appealing login page developed using HTML5 and CSS3 This project demonstrates my understanding of frontend fundamentals , form design , CSS layout , positioning , and modern UI styling techniques
 
 <p align="center">
   <a href="https://html-css-login-page-lemon.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel" alt="Live Demo">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://github.com/sourabh9098/html-css-login-page">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-blue?style=for-the-badge&logo=github" alt="Source Code">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
   </a>
 </p>
 
+⸻
 
 Project Preview
 
 <p align="center">
-  <img src="screenshots/login-page.png" alt="Preview of the HTML and CSS Login Page" width="800">
+  <img src="images/img.jpg" alt="HTML and CSS Login Page Preview" width="850">
+</p>
+<p align="center">
+  <i>Modern login interface designed using HTML and CSS </i>
 </p>
 
-Login page interface built with HTML and CSS.
+About The Project
 
-To display the screenshot above, add your actual project screenshot at screenshots/login-page.png in this repository.
+The HTML And CSS Login Page is a frontend development project built to strengthen my practical understanding of web technologie 
 
+The main focus was to create an attractive login interface while applying core HTML and CSS concepts, including form elements , layout management , positioning , background customization , and visual styling
+
+Rather than focusing only on the appearance , this project helped me understand how different HTML elements and CSS properties work together to create a structured and visually consistent user interface.
+
+The project is deployed on Vercel and its source code is available on GitHub
 
 Features
 
-* Clean and modern login interface
-* Username and password input fields
-* Remember Me option
-* Forgot Password and Register links
-* Background image and visual styling
-* CSS-based layout and alignment
-* Hover and focus styling where implemented
+* Modern User Interface: Clean and visually appealing login page design
+* Login Form: Username and password input fields
+* Remember Me: Checkbox option for remembering login preferences
+* Forgot Password: Password recovery navigation link .
+* Registration Link: Option for users to navigate to registration .
+* Background Styling: Customized background image and visual presentation .
+* CSS Layout: Structured layout using CSS alignment and positioning.
+* Interactive Styling: Hover and focus effects where implemented.
 
-Technologies Used
+Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="Google Fonts">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
 Technology	Purpose
-HTML5	Page structure and form elements
-CSS3	Styling, layout, and visual effects
-Google Fonts	Typography
-Vercel	Deployment and hosting
-Git & GitHub	Version control
+HTML5	Page structure , semantic elements , and form component
+CSS3	Styling , layouts , positioning , and visual effects
+Google Fonts	Custom typography and improved readability
+Git	Version control and source code management
+GitHub	Repository hosting and project documentation
+Vercel	Deployment and hosting of the frontend application
+
+Technical Concepts Implemented
+
+This project provided practical experience with several important frontend development concepts.
+
+Concept	Implementation
+HTML Forms	Creating structured login forms and input elements
+CSS Flexbox	Aligning and arranging interface components
+CSS Positioning	Managing the placement of interface elements
+Background Properties	Customizing background images and their appearance
+CSS Box Model	Working with spacing, borders, and element dimensions
+Typography	Integrating and styling Google Fonts
+CSS Selectors	Targeting HTML elements for customized styling
+Hover & Focus	Applying visual interaction states
 
 Project Structure
 
@@ -49,58 +83,52 @@ html-css-login-page/
 ├── image/
 │   └── img.jpg
 │
-├── screenshots/
-│   └── login-page.png
-│
 ├── index.html
 ├── style.css
 └── README.md
 
-Getting Started
 
-Follow these steps to run the project locally.
-
-1. Clone the repository
-
-git clone https://github.com/sourabh9098/html-css-login-page.git
-
-2. Navigate to the project directory
-
-cd html-css-login-page
-
-3. Run the project
-
-Open index.html directly in your browser, or use the Live Server extension in Visual Studio Code.
-
-No build process or package installation is required for this basic HTML and CSS project.
+<p>
+  <a href="https://html-css-login-page-lemon.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_Live_Project-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Live Project">
+  </a>
+</p>
 
 Learning Outcomes
 
-Through this project, I practiced:
+Developing this project helped me strengthen my practical frontend development skills .
 
-* Structuring webpages with semantic HTML
-* Styling forms and input elements using CSS
-* Working with layouts and alignment
-* Applying background images and visual effects
-* Organizing frontend project files
-* Publishing source code using GitHub
-* Deploying a static website using Vercel
 
 Future Improvements
 
-* Improve responsiveness across mobile and desktop screens
-* Add interactive form validation using JavaScript
-* Implement dedicated registration and password recovery pages
-* Integrate a secure authentication service
+I plan to extend this project by introducing additional frontend and backend capabilities .
 
-Author
+* Implement JavaScript-based form validation .
+* Add show/hide password functionality .
+* Improve responsiveness across mobile , tablet , and desktop screen .
+* Develop dedicated registration and password recovery pages.
+* Integrate backend authentication
+* Connect the frontend with authen ication APIs
+
+Connect With Me
 
 Sourabh
 
-Aspiring Software Developer | Exploring Frontend Development, Machine Learning, and Deep Learning.
+Aspiring Software Developer | Data Science Enthusiast | Exploring Frontend Development
 
-* GitHub: @sourabh9098
-* Live Project: HTML & CSS Login Page
+<p>
+  <a href="https://github.com/sourabh9098">
+    <img src="https://img.shields.io/badge/GitHub-sourabh9098-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+  <a href="https://www.linkedin.com/in/sourabh9098/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+</p>
 
+⸻
 
-If you find this project useful, consider giving the repository a star!
+<p align="center">
+  <b>If you find this project interesting , consider giving the repository a ⭐ </b>
+  <br><br>
+  <i>Learning by building. Improving through practice</i>
+</p>
