@@ -16,7 +16,7 @@ A clean , modern , and visually appealing login page developed using HTML5 and C
 Project Preview
 
 <p align="center">
-  <img src="images/img.jpg" alt="HTML and CSS Login Page Preview" width="850">
+  <img src="Screenshot.png" alt="HTML and CSS Login Page Preview" width="850">
 </p>
 <p align="center">
   <i>Modern login interface designed using HTML and CSS </i>
